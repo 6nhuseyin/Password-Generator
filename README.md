@@ -2,77 +2,32 @@
 
 ## Overview
 
-This week’s challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+This project is a browser-based password generator application designed for employees to create secure, random passwords. It dynamically updates HTML and CSS using JavaScript to offer a user-friendly, responsive interface.
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
+## Features
 
-## Instructions
+- **Customizable Password Criteria**: Users can specify password length (8 to 128 characters) and include a mix of character types (lowercase, uppercase, numeric, and special characters).
+- **Special Character Support**: The application supports a variety of special characters, as suggested by the [OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
+- **Responsive Design**: The interface is clean, polished, and adjusts to fit different screen sizes, enhancing user experience across various devices.
 
-The following image shows the web application's appearance and functionality:
+## User Guide
 
-![password generator demo](./assets/05-javascript-challenge-demo.png)
+1. **Password Length**: Start by clicking the 'Generate Password' button. The application will prompt for the desired password length.
+2. **Character Selection**: Choose from lowercase, uppercase, numeric, and special characters to include in the password.
+3. **Password Generation**: The application validates the input criteria and generates the password accordingly.
+4. **Display**: The generated password is displayed on the webpage for user convenience.
 
+## Deployment and Repository
 
-* Generate a password when the button is clicked
-  * Present a series of prompts for password criteria
-    * Length of password
-      * At least 8 characters but no more than 128.
-    * Character types
-      * Lowercase
-      * Uppercase
-      * Numeric
-      * Special characters ($@%&*, etc)
-  * Code should validate for each input and at least one character type should be selected
-  * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
+- The application is deployed at a live URL and functions without errors.
+- Hosted on GitHub, the code repository follows best practices in file structure and naming conventions.
+- The repository includes a README with a detailed description, screenshots, and a link to the deployed application.
 
-## Grading Requirements
+## Review Submission
 
-This challenge is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following:
-
-  * The challenge should not produce any errors in the console when you inspect it using Chrome DevTools.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+To review, visit the following:
+- [Deployed Application URL](#)
+- [GitHub Repository URL](#)
 
 ---
 
