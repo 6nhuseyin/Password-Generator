@@ -17,18 +17,9 @@ This project is a browser-based password generator application designed for empl
 3. **Password Generation**: The application validates the input criteria and generates the password accordingly.
 4. **Display**: The generated password is displayed on the webpage for user convenience.
 
-## Deployment and Repository
-
-- The application is deployed at a live URL and functions without errors.
-- Hosted on GitHub, the code repository follows best practices in file structure and naming conventions.
-- The repository includes a README with a detailed description, screenshots, and a link to the deployed application.
-
 ## Review Submission
 
 To review, visit the following:
-- [Deployed Application URL](#)
-- [GitHub Repository URL](#)
 
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+- [Deployed Application URL](https://6nhuseyin.github.io/Password-Generator/)
+- [GitHub Repository URL](https://github.com/6nhuseyin/Password-Generator)
